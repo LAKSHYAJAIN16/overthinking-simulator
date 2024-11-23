@@ -1,0 +1,464 @@
+[
+  {
+    "scenario-id": 1,
+    "scenario-text": "If I stay up late to study today, I'll do better on the exam",
+    "scenairo-types": "nerd",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": -5,
+      "grades": 10,
+      "health": -5,
+      "money": 0
+    },
+    "text-display": "+10 grades, -5 popularity, -5 health"
+  },
+  {
+    "scenario-id": 2,
+    "scenario-text": "Maybe I should do this extra-credit project, so my teacher likes me",
+    "scenairo-types": "nerd",
+    "scenario-attributes": {
+      "happiness": -2,
+      "anxiety": 0,
+      "popularity": -3,
+      "grades": 5,
+      "health": 0,
+      "money": 0
+    },
+    "text-display": "+5 grades, -3 popularity, -2 happiness"
+  },
+  {
+    "scenario-id": 3,
+    "scenario-text": "Maybe I should skip my football game and go study",
+    "scenairo-types": "nerd",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": -5,
+      "grades": 10,
+      "health": -5,
+      "money": 0
+    },
+    "text-display": "+10 grades, -5 popularity, -5 health"
+  },
+  {
+    "scenario-id": 4,
+    "scenario-text": "I need to do better at school, I should go to a private tutor",
+    "scenairo-types": "nerd",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": -5,
+      "grades": 10,
+      "health": 0,
+      "money": -5
+    },
+    "text-display": "+10 grades, -5 popularity, -5 money"
+  },
+  {
+    "scenario-id": 5,
+    "scenario-text": "I'll study alone, and ditch my group study session",
+    "scenairo-types": "nerd",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": -5,
+      "grades": 5,
+      "health": 0,
+      "money": 0
+    },
+    "text-display": "+5 grades, -5 popularity"
+  },
+  {
+    "scenario-id": 6,
+    "scenario-text": "I'm so burntout, but I need to do homework",
+    "scenairo-types": "nerd",
+    "scenario-attributes": {
+      "happiness": -10,
+      "anxiety": 0,
+      "popularity": 0,
+      "grades": 10,
+      "health": 0,
+      "money": 0
+    },
+    "text-display": "+10 grades, -10 health"
+  },
+  {
+    "scenario-id": 7,
+    "scenario-text": "My group member suck, I'm going to confront them and make them do work",
+    "scenairo-types": "nerd",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": -5,
+      "grades": 5,
+      "health": 0,
+      "money": 0
+    },
+    "text-display": "+5 grades, -5 health"
+  },
+  {
+    "scenario-id": 8,
+    "scenario-text": "I have a test tomorrow. I'll take a day off of work.",
+    "scenairo-types": "nerd",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": 0,
+      "grades": 5,
+      "health": 0,
+      "money": -5
+    },
+    "text-display": "+5 grades, -5 money"
+  },
+  {
+    "scenario-id": 9,
+    "scenario-text": "I'm not going to team up with my friends for this group project, they're dumb",
+    "scenairo-types": "nerd",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": -10,
+      "grades": 10,
+      "health": 0,
+      "money": 0
+    },
+    "text-display": "+10 grades, -10 popularity"
+  },
+  {
+    "scenario-id": 10,
+    "scenario-text": "It's my birthday, but I'm not going to celebrate because I need to study for the test",
+    "scenairo-types": "nerd",
+    "scenario-attributes": {
+      "happiness": -15,
+      "anxiety": 0,
+      "popularity": 0,
+      "grades": 15,
+      "health": 0,
+      "money": 0
+    },
+    "text-display": "+15 grades, -15 happiness"
+  },
+  {
+    "scenario-id": 11,
+    "scenario-text": "My friends are going to McDonald's, but I'm lowkey kind of fat",
+    "scenairo-types": "jock",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": -10,
+      "grades": 0,
+      "health": 10,
+      "money": 0
+    },
+    "text-display": "+10 health, -10 popularity"
+  },
+  {
+    "scenario-id": 12,
+    "scenario-text": "I should go to the gym during break period.",
+    "scenairo-types": "jock",
+    "scenario-attributes": {
+      "happiness": -5,
+      "anxiety": 0,
+      "popularity": -5,
+      "grades": 0,
+      "health": 10,
+      "money": 0
+    },
+    "text-display": "+10 health, -5 popularity, -5 happiness"
+  },
+  {
+    "scenario-id": 13,
+    "scenario-text": "Even though I have a test tomorrow, I have a headache, I'm going to bed",
+    "scenairo-types": "jock",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": 0,
+      "grades": -5,
+      "health": 5,
+      "money": 0
+    },
+    "text-display": "+5 health, -5 grades"
+  },
+  {
+    "scenario-id": 13,
+    "scenario-text": "I should hire a personal trainer. I'm fat asf.",
+    "scenairo-types": "jock",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": 0,
+      "grades": 0,
+      "health": 15,
+      "money": -15
+    },
+    "text-display": "+15 health, -15 money"
+  },
+  {
+    "scenario-id": 14,
+    "scenario-text": "I should do yoga. Will my friends make fun of me for it though?",
+    "scenairo-types": "jock",
+    "scenario-attributes": {
+      "happiness": 5,
+      "anxiety": 0,
+      "popularity": -5,
+      "grades": 0,
+      "health": 5,
+      "money": -5
+    },
+    "text-display": "+5 health, +5 happiness, -5 popularity, -5 money"
+  },
+  {
+    "scenario-id": 15,
+    "scenario-text": "I'll skip first period to eat my breakfast today.",
+    "scenairo-types": "jock",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": 0,
+      "grades": -5,
+      "health": 5,
+      "money": 0
+    },
+    "text-display": "+5 health, -5 grades"
+  },
+  {
+    "scenario-id": 16,
+    "scenario-text": "I'll go to the gym after school today instead of doing homework.",
+    "scenairo-types": "jock",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": 0,
+      "grades": -5,
+      "health": 5,
+      "money": 0
+    },
+    "text-display": "+5 health, -5 grades"
+  },
+  {
+    "scenario-id": 17,
+    "scenario-text": "I'm sick. I can't go to my friend's party.",
+    "scenairo-types": "jock",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": -10,
+      "grades": 0,
+      "health": 10,
+      "money": 0
+    },
+    "text-display": "+10 health, -10 popularity"
+  },
+  {
+    "scenario-id": 18,
+    "scenario-text": "There's a party at my friend's house, but I'm lowkey kind of tired",
+    "scenairo-types": "jock",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": -10,
+      "grades": 0,
+      "health": 10,
+      "money": 0
+    },
+    "text-display": "+10 health, -10 popularity"
+  },
+  {
+    "scenario-id": 19,
+    "scenario-text": "I'm locking the F*** in. No parties, no junk, just studying and working out",
+    "scenairo-types": "jock",
+    "scenario-attributes": {
+      "happiness": -10,
+      "anxiety": 0,
+      "popularity": -10,
+      "grades": 10,
+      "health": 10,
+      "money": 0
+    },
+    "text-display": "+10 health, +10 grades, -10 popularity, -10 happiness"
+  },
+  {
+    "scenario-id": 20,
+    "scenario-text": "I can't do the test today. I'm sick",
+    "scenairo-types": "jock",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": 0,
+      "grades": -10,
+      "health": 10,
+      "money": 0
+    },
+    "text-display": "+10 health, -10 grades"
+  },
+  {
+    "scenario-id": 20,
+    "scenario-text": "Party tomorrow. Who the hell cares about school?",
+    "scenairo-types": "playboy",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": 10,
+      "grades": -10,
+      "health": 0,
+      "money": 0
+    },
+    "text-display": "+10 popularity, -10 grades"
+  },
+  {
+    "scenario-id": 21,
+    "scenario-text": "My fits be dry. I need stussy. ",
+    "scenairo-types": "playboy",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": 10,
+      "grades": 0,
+      "health": 0,
+      "money": -10
+    },
+    "text-display": "+10 popularity, -10 money"
+  },
+  {
+    "scenario-id": 22,
+    "scenario-text": "I'll skip class to go to the mall.",
+    "scenairo-types": "playboy",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": 15,
+      "grades": -10,
+      "health": 0,
+      "money": -5
+    },
+    "text-display": "+15 popularity, -10 grades, -5 money"
+  },
+  {
+    "scenario-id": 23,
+    "scenario-text": "My friend just handed me a vape. What's the worst that could happen?",
+    "scenairo-types": "playboy",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": 10,
+      "grades": 0,
+      "health": -10,
+      "money": 0
+    },
+    "text-display": "+10 popularity, --10 health"
+  },
+  {
+    "scenario-id": 24,
+    "scenario-text": "My crush said that she like guys with cars. I need to get one",
+    "scenairo-types": "playboy",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": 20,
+      "grades": 0,
+      "health": 0,
+      "money": -20
+    },
+    "text-display": "+20 popularity, -20 money"
+  },
+  {
+    "scenario-id": 25,
+    "scenario-text": "My crush said that she like guys with cars. I need to get one",
+    "scenairo-types": "playboy",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": 20,
+      "grades": 0,
+      "health": 0,
+      "money": -20
+    },
+    "text-display": "+20 popularity, -20 money"
+  },
+  {
+    "scenario-id": 26,
+    "scenario-text": "Imma get high to show my crush I'm not a coward.",
+    "scenairo-types": "playboy",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": 15,
+      "grades": 0,
+      "health": -15,
+      "money": 0
+    },
+    "text-display": "+15 popularity, -15 health"
+  },
+  {
+    "scenario-id": 27,
+    "scenario-text": "Screw the gym, I need to go see the Minecraft Movie",
+    "scenairo-types": "playboy",
+    "scenario-attributes": {
+      "happiness": 5,
+      "anxiety": 0,
+      "popularity": 5,
+      "grades": 0,
+      "health": -10,
+      "money": 0
+    },
+    "text-display": "+5 popularity, +5 happiness, -10 health"
+  },
+  {
+    "scenario-id": 28,
+    "scenario-text": "I should buy a ps5 for my homie.",
+    "scenairo-types": "playboy",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": 10,
+      "grades": 0,
+      "health": 0,
+      "money": -10
+    },
+    "text-display": "+10 popularity, -10 money"
+  },
+  {
+    "scenario-id": 29,
+    "scenario-text": "My IG's kind of dry. I need to spend more time sprucing it up.",
+    "scenairo-types": "playboy",
+    "scenario-attributes": {
+      "happiness": 0,
+      "anxiety": 0,
+      "popularity": 5,
+      "grades": -5,
+      "health": 0,
+      "money": 0
+    },
+    "text-display": "+5 popularity, -5 grades"
+  },
+  {
+    "scenario-id": 30,
+    "scenario-text": "Taylor Swift concert tomorrow, I hate her, but my friends asked me to go.",
+    "scenairo-types": "playboy",
+    "scenario-attributes": {
+      "happiness": -5,
+      "anxiety": 0,
+      "popularity": 15,
+      "grades": 0,
+      "health": 0,
+      "money": -10
+    },
+    "text-display": "+15 popularity, -10 money, -5 happiness"
+  },
+  {
+    "scenario-id": 30,
+    "scenario-text": "Taylor Swift concert tomorrow, I hate her, but my friends asked me to go.",
+    "scenairo-types": "playboy",
+    "scenario-attributes": {
+      "happiness": -5,
+      "anxiety": 0,
+      "popularity": 15,
+      "grades": 0,
+      "health": 0,
+      "money": -10
+    },
+    "text-display": "+15 popularity, -10 money, -5 happiness"
+  }
+]
